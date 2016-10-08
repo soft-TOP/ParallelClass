@@ -1,0 +1,12 @@
+c:\users\tpohling\documents\visual studio 2015\Projects\ParallelClass\ParallelClass\bin\Debug\ParallelClass.exe.config
+c:\users\tpohling\documents\visual studio 2015\Projects\ParallelClass\ParallelClass\bin\Debug\ParallelClass.exe
+c:\users\tpohling\documents\visual studio 2015\Projects\ParallelClass\ParallelClass\bin\Debug\ParallelClass.pdb
+c:\users\tpohling\documents\visual studio 2015\Projects\ParallelClass\ParallelClass\obj\Debug\ParallelClass.csprojResolveAssemblyReference.cache
+c:\users\tpohling\documents\visual studio 2015\Projects\ParallelClass\ParallelClass\obj\Debug\ParallelClass.exe
+c:\users\tpohling\documents\visual studio 2015\Projects\ParallelClass\ParallelClass\obj\Debug\ParallelClass.pdb
+D:\Visual Studio 2015\Projects\ParallelClass\ParallelClass\bin\Debug\ParallelClass.exe.config
+D:\Visual Studio 2015\Projects\ParallelClass\ParallelClass\obj\Debug\ParallelClass.exe
+D:\Visual Studio 2015\Projects\ParallelClass\ParallelClass\obj\Debug\ParallelClass.pdb
+D:\Visual Studio 2015\Projects\ParallelClass\ParallelClass\bin\Debug\ParallelClass.exe
+D:\Visual Studio 2015\Projects\ParallelClass\ParallelClass\bin\Debug\ParallelClass.pdb
+D:\Visual Studio 2015\Projects\ParallelClass\ParallelClass\obj\Debug\ParallelClass.csprojResolveAssemblyReference.cache
